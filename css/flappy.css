@@ -61,3 +61,12 @@
     font-size: 70px;
     z-index: 100;
 }
+
+.gameOver{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    font-family: 'Pixel';
+    font-size: 70px;
+    z-index: 100;
+}
